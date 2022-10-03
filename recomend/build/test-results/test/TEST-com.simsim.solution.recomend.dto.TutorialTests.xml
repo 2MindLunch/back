@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.simsim.solution.recomend.dto.TutorialTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-01T14:18:44" hostname="youngchului-MacBookPro.local" time="0.057">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.simsim.solution.recomend.dto.TutorialTests" time="0.057"/>
+  <system-out><![CDATA[23:18:44.385 [Test worker] INFO com.simsim.solution.recomend.dto.TutorialTests - 김영철yc1kyc1
+23:18:44.392 [Test worker] INFO com.simsim.solution.recomend.dto.TutorialTests - 김지연yc2kyc2
+23:18:44.393 [Test worker] INFO com.simsim.solution.recomend.dto.TutorialTests - 김또강yc3kyc3
+23:18:44.394 [Test worker] INFO com.simsim.solution.recomend.dto.TutorialTests - 김다녀yc4kyc4
+23:18:44.394 [Test worker] INFO com.simsim.solution.recomend.dto.TutorialTests - 기자녀yc5kyc5
+23:18:44.394 [Test worker] INFO com.simsim.solution.recomend.dto.TutorialTests - 가물yc6kyc6
+23:18:44.394 [Test worker] INFO com.simsim.solution.recomend.dto.TutorialTests - 치yc7kyc7
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
