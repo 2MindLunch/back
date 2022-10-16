@@ -1,0 +1,22 @@
+
+ifndef::snippets[]
+:snippets: /build/generated-snippets
+endif::[]
+= Spring REST Docs
+
+[[resources-post]]
+== GET
+
+==== HTTP Request
+
+include::{snippets}/random-recommend/http-request.adoc[]
+
+
+
+==== HTTP Response
+
+include::{snippets}/random-recommend/http-response.adoc[]
+
+==== Response Type
+
+include::{snippets}/random-recommend/response-fields.adoc[]
